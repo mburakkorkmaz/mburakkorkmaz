@@ -6,6 +6,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/m.burakkorkmaz/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/BurakKorkmazTR)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/mburakkorkmazz)
+[![Medium](https://img.shields.io/badge/-Medium-333?style=flat&logo=Github&logoColor=white)](https://mburakkorkmaz.medium.com/)
 &nbsp;
 
 - 👷 I’m a Student Endustry Engineerin from  Engineering Faculty of [Ataturk Universty](https://www.atauni.edu.tr/).
